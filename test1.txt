@@ -1,1 +1,2 @@
 created a file 
+modified a bit to learn about the git pull command
