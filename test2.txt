@@ -1,0 +1,3 @@
+file created in vs code 
+process: to put it in github
+add->commit->push
